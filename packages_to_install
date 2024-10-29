@@ -1,0 +1,3 @@
+mediapipe : python -m pip install mediapipe
+opencv : python -m pip install opencv-python
+numpy : pip instal numpy
